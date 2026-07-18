@@ -12,9 +12,7 @@ CyberSmart is a Flutter-based cybersecurity awareness and phishing detection app
 - 📱 Android Support
 - ⚡ Fast and User-Friendly Interface
 
-📸 Screenshots
 
-Add your app screenshots here.
 
 🛠️ Built With
 
