@@ -1,0 +1,8 @@
+{
+  "model_name": "CyberSmart Phishing Detector",
+  "version": "2.0",
+  "input_features": 56,
+  "classes": ["Safe", "Phishing"],
+  "accuracy": "97.3%",
+  "description": "On-device TFLite model for URL phishing detection"
+}
